@@ -6,5 +6,5 @@ Die Illusion wurde gewählt, da in der Realität nur ein begrenzter Raum für de
 Linker Joystick: Vorwärts/Rückwärts/Seitwärts bewegen
 Rechter Joystick Links/Rechts: Drehen
 
-Teleportation mit dem rechten Joystick führt leider zur Überpringung
+Teleportation mit dem rechten Joystick führt leider zur Überspringung
 relevanter Kollisionsboxen und sollte daher nicht verwendet werden.
